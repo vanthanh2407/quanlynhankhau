@@ -1,0 +1,9 @@
+﻿  caidat.cpp
+E:\visual studio\đồ án tin học\phan3\phan3\caidat.cpp(91,34): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\visual studio\đồ án tin học\phan3\phan3\caidat.cpp(146,40): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\visual studio\đồ án tin học\phan3\phan3\caidat.cpp(230,43): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  chuongtrinh.cpp
+E:\visual studio\đồ án tin học\phan3\phan3\chuongtrinh.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\visual studio\đồ án tin học\phan3\phan3\chuongtrinh.cpp(144,11): warning C4101: 'nguoi': unreferenced local variable
+  Generating Code...
+  phan3.vcxproj -> E:\visual studio\đồ án tin học\phan3\Debug\phan3.exe

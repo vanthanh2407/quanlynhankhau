@@ -1,0 +1,5 @@
+﻿  caidat.cpp
+  chuongtrinh.cpp
+E:\visual studio\nhankhau_2\nhankhau_2\chuongtrinh.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  nhankhau_2.vcxproj -> E:\visual studio\nhankhau_2\Debug\nhankhau_2.exe
